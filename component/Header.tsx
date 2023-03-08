@@ -13,8 +13,8 @@ function Header() {
                 <a className="header_navi" href="">Contactus</a>
             </div>
             <div className="flex">
-                <button className="bg-blue-900 hover:bg-blue-700 text-white font-bold rounded-full py-2 px-1" href="">Get Started For Free</button>
-                <button className="bg-amber-400 hover:bg-amber-700 text-white font-bold rounded-full py-2 px-1" href="">Go To Demo</button>
+                <button className="bg-blue-900 hover:bg-blue-700 text-white font-bold rounded-full py-2 px-1">Get Started For Free</button>
+                <button className="bg-amber-400 hover:bg-amber-700 text-white font-bold rounded-full py-2 px-1">Go To Demo</button>
             </div>
         </header>
     )
